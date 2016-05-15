@@ -30,6 +30,10 @@
         <activity
             android:name=".example4_0506"
             android:label="@string/title_activity_example4_0506"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".example5_0516"
+            android:label="@string/title_activity_example5_0516"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

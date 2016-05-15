@@ -57,5 +57,8 @@ public class MainActivity extends AppCompatActivity {
 
         dataSet.add("Touch Event Listener\n2016-05-15");
         activitySet.add(example4_0506.class);
+
+        dataSet.add("Gesture Listener\n2016-05-15");
+        activitySet.add(example5_0516.class);
     }
 }

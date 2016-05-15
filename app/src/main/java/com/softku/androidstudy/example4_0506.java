@@ -11,6 +11,10 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+/*
+    Touch Event listener 로 사진 움직이가
+ */
+
 public class example4_0506 extends AppCompatActivity {
 
     private RelativeLayout mLay;
