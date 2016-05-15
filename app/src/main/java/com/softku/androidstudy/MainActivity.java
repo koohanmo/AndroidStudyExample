@@ -54,5 +54,8 @@ public class MainActivity extends AppCompatActivity {
 
         dataSet.add("Listview\n2016-05-15");
         activitySet.add(example3.class);
+
+        dataSet.add("Touch Event Listener\n2016-05-15");
+        activitySet.add(example4_0506.class);
     }
 }
