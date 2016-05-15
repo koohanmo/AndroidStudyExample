@@ -48,5 +48,11 @@ public class MainActivity extends AppCompatActivity {
     {
         dataSet.add("첫째주 예제\n2016-05-09 ~ 2016-05-15");
         activitySet.add(example1.class);
+
+        dataSet.add("Design support Library\n2016-05-15");
+        activitySet.add(example2.class);
+
+        dataSet.add("Listview\n2016-05-15");
+        activitySet.add(example3.class);
     }
 }

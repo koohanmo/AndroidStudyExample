@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_subheader"
+            android:title="헤더">
+            <menu>
+                <!-- Menu items go here -->
+                <item
+                    android:id="@+id/navigation_sub_item_1"
+                    android:icon="@drawable/ic_star_rate_white_18dp"
+                    android:title="아이템 1"/>
+                <item
+                    android:id="@+id/navigation_sub_item_2"
+                    android:icon="@drawable/ic_star_rate_white_18dp"
+                    android:title="아이템 2"/>
+            </menu>
+        </item>
+    </group>
+</menu>
