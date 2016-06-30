@@ -8,6 +8,7 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 
 import com.softku.androidstudy.Adapter.MainAdapter;
+import com.softku.androidstudy.example6_0701.example6_0701;
 
 import java.util.ArrayList;
 
@@ -60,5 +61,8 @@ public class MainActivity extends AppCompatActivity {
 
         dataSet.add("Gesture Listener\n2016-05-15");
         activitySet.add(example5_0516.class);
+
+        dataSet.add("Tab + Fragment + View Pager\n2016-07-01");
+        activitySet.add(example6_0701.class);
     }
 }

@@ -2,4 +2,10 @@
     <string name="app_name">AndroidStudy</string>
     <string name="title_activity_example4_0506">example4_0506</string>
     <string name="title_activity_example5_0516">example5_0516</string>
+    <string name="title_activity_example6_0701">example6_0701</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
