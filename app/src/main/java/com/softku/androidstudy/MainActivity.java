@@ -10,6 +10,8 @@ import android.widget.ListView;
 import com.softku.androidstudy.Adapter.MainAdapter;
 import com.softku.androidstudy.example6_0701.example6_0701;
 import com.softku.androidstudy.example7_0701.example7_0701;
+import com.softku.androidstudy.overflowMenu.OverFlowMenuActivity;
+import com.softku.androidstudy.transition.TransitionActivity1;
 
 import java.util.ArrayList;
 
@@ -68,5 +70,12 @@ public class MainActivity extends AppCompatActivity {
 
         dataSet.add("프레그먼트 간 통신(리스너 등록) r\n2016-07-01");
         activitySet.add(example7_0701.class);
+
+        dataSet.add("OverFlowMenu  r\n2016-07-01");
+        activitySet.add(OverFlowMenuActivity.class);
+
+
+        dataSet.add("TraasitionActivity1  r\n2016-07-01");
+        activitySet.add(TransitionActivity1.class);
     }
 }

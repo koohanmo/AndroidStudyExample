@@ -39,7 +39,13 @@
             android:name=".example6_0701.example6_0701"
             android:label="@string/title_activity_example6_0701"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".example7_0701.example7_0701"></activity>
+        <activity android:name=".example7_0701.example7_0701" />
+
+        <activity
+            android:name=".overflowMenu.OverFlowMenuActivity"
+            android:label="@string/title_activity_over_flow_menu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".transition.TransitionActivity1"></activity>
     </application>
 
 </manifest>
