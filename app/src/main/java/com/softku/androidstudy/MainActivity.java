@@ -9,6 +9,7 @@ import android.widget.ListView;
 
 import com.softku.androidstudy.Adapter.MainAdapter;
 import com.softku.androidstudy.example6_0701.example6_0701;
+import com.softku.androidstudy.example7_0701.example7_0701;
 
 import java.util.ArrayList;
 
@@ -64,5 +65,8 @@ public class MainActivity extends AppCompatActivity {
 
         dataSet.add("Tab + Fragment + View Pager\n2016-07-01");
         activitySet.add(example6_0701.class);
+
+        dataSet.add("프레그먼트 간 통신(리스너 등록) r\n2016-07-01");
+        activitySet.add(example7_0701.class);
     }
 }
